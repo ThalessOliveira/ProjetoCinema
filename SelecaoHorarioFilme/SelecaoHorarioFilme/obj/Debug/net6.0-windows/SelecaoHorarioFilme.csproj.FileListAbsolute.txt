@@ -1,0 +1,16 @@
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\bin\Debug\net6.0-windows\SelecaoHorarioFilme.exe
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\bin\Debug\net6.0-windows\SelecaoHorarioFilme.deps.json
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\bin\Debug\net6.0-windows\SelecaoHorarioFilme.runtimeconfig.json
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\bin\Debug\net6.0-windows\SelecaoHorarioFilme.dll
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\bin\Debug\net6.0-windows\SelecaoHorarioFilme.pdb
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\obj\Debug\net6.0-windows\SelecaoHorarioFilme.frmHorarios.resources
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\obj\Debug\net6.0-windows\SelecaoHorarioFilme.csproj.GenerateResource.cache
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\obj\Debug\net6.0-windows\SelecaoHorarioFilme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\obj\Debug\net6.0-windows\SelecaoHorarioFilme.AssemblyInfoInputs.cache
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\obj\Debug\net6.0-windows\SelecaoHorarioFilme.AssemblyInfo.cs
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\obj\Debug\net6.0-windows\SelecaoHorarioFilme.csproj.CoreCompileInputs.cache
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\obj\Debug\net6.0-windows\SelecaoHorarioFilme.dll
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\obj\Debug\net6.0-windows\refint\SelecaoHorarioFilme.dll
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\obj\Debug\net6.0-windows\SelecaoHorarioFilme.pdb
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\obj\Debug\net6.0-windows\SelecaoHorarioFilme.genruntimeconfig.cache
+C:\Users\thales.soliveira1\source\repos\SelecaoHorarioFilme\SelecaoHorarioFilme\obj\Debug\net6.0-windows\ref\SelecaoHorarioFilme.dll
